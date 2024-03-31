@@ -1,0 +1,35 @@
+{
+    "name": "NotificationApp",
+    "short_name": "NotificationApp",
+    "description": "A notification Display web app",
+    "start_url": "/",
+    "orientation": "portrait",
+    "scope": ".",
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "sizes": "any",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "/public/icons/denied.svg",
+            "sizes": "96x96",
+            "type": "image/svg"
+        },
+        {
+            "src": "/public/icons/question.svg",
+            "sizes": "96x96",
+            "type": "image/svg"
+        },
+        {
+            "src": "/public/icons/verified.svg",
+            "sizes": "96x96",
+            "type": "image/svg"
+        },
+        {
+            "src": "/public/icons/warning.svg",
+            "sizes": "96x96",
+            "type": "image/svg"
+        }
+    ]
+}
